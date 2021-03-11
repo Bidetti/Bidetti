@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with [HarvardX - CS50](https://courses.edx.org/)...
 - 📫 How to reach me: [Discord](discord.com) Bidetti#4272...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bidetti&show_icons=true&theme=dark) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bidetti&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@bidetti&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bidetti&show_icons=true&theme=dark) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bidetti&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidetti&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
