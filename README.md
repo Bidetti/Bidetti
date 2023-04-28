@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bidetti-760398207/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/Bidetti/)
 
-![RafaelBidetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bidetti&show_icons=true&theme=dracula)
+![RafaelBidetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bidetti&show_icons=true&theme=dark)
 
 
 #### Tecnologias que eu utilizo/estudo:
