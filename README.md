@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Bidetti👋
 
 
-<p>Atualmente cursando o <b>3°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
+<p>Atualmente cursando o <b>4°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
 
 #### Onde me encontrar: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bidetti-760398207/)
@@ -32,7 +32,7 @@
 </div>
 <br><br/>
 <p align="left">
-   - Interesses: <strong>Tecnologias e suas aplicações, jogos, esportes, inteligência artificial, leitura e mercado financeiro.</strong>
+   - Interesses: <strong>Tecnologias e suas aplicações, jogos, esportes, inteligência artificial e mercado financeiro.</strong>
 </p>
 
 <p align="left">
