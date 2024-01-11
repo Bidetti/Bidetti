@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Bidetti👋
 
 
-<p>Atualmente cursando o <b>4°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
+<p>Atualmente cursando o <b>5°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
 
 #### Onde me encontrar: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bidetti-760398207/)
@@ -40,6 +40,6 @@
 </p>
 
 <p align="left">
-   - Ferramentas: <strong>VSCode, AWS, MySQL Workbench, Astah UML, JetBrains, Jupyter Notebook, Google Colab, Trello, GitHub, Git, Figma, FireBase e GoogleCloud</strong>
+   - Ferramentas: <strong>VSCode, AWS, MySQL Workbench, JetBrains, Jupyter Notebook, Google Colab, Trello, GitHub, Git, Figma, FireBase e GoogleCloud</strong>
 </p> 
  
