@@ -1,16 +1,16 @@
-### Olá! Eu sou o Rafael Bidetti👋
+### Hello, I'm Rafael Bidetti👋
 
 
-<p>Atualmente cursando o <b>5°</b> semestre de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
+<p>Currently attending the <b>5th</b> semester of <b>Computer Science</b> at the <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Mauá Institute of Technology.</b> </p>
 
-#### Onde me encontrar: 
+#### Where to find me: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bidetti-760398207/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/Bidetti/)
 
 ![RafaelBidetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Bidetti&show_icons=true&theme=dark)
 
 
-#### Tecnologias que eu utilizo/estudo:
+#### Technologies:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,14 +33,14 @@
 </div>
 <br><br/>
 <p align="left">
-   - Interesses: <strong>Tecnologias e suas aplicações, jogos, esportes, inteligência artificial e mercado financeiro.</strong>
+   - Interests: <strong>Technologies and their applications, games, sports, artificial intelligence and the financial market.</strong>
 </p>
 
 <p align="left">
-   -  Idiomas: <strong> Português e Inglês </strong>
+   -  Languages: <strong> Portuguese and English </strong>
 </p>
 
 <p align="left">
-   - Ferramentas: <strong>VSCode, AWS, MySQL Workbench, JetBrains, Jupyter Notebook, Google Colab, Trello, GitHub, Git, Figma, FireBase e GoogleCloud</strong>
+   - Tools: <strong>VSCode, AWS, MySQL Workbench, JetBrains, Jupyter Notebook, Google Colab, Trello, GitHub, Git, Figma, FireBase e GoogleCloud</strong>
 </p> 
  
